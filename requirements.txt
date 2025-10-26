@@ -16,3 +16,5 @@ mediapipe==0.10.14
 # update 8
 
 # update 9
+
+# update 12
