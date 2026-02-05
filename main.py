@@ -147,3 +147,5 @@ cv2.destroyAllWindows()
 # refactor 66
 
 # refactor 68
+
+# refactor 69
